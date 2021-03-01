@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android2Fragments</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="x">x</string>
+    <string name="note_image">Note Image</string>
+    <string name="screen">Screen</string>
+    <string name="hardware">Hardware</string>
+    <string name="add_note">Add Note</string>
+</resources>
